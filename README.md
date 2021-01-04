@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi Everyone 👋 
 
 I'm Computer Engineering <br/>
 Now ,internship REALIZATION SOLUTION CO.,LTD. 
+
 <!---
 Here are some ideas to get you started:
 
