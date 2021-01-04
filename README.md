@@ -12,6 +12,13 @@ Now ,internship [WISDOM-INNOVATION GROUP](https://www.wisdom-innovation.com/) CO
 4. JavaScript
 
 
+
+<h3>📈 My GitHub Stats</h3>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Doittikorn&show_icons=true&theme=highcontrast" alt="abhisheknaiidu" />
+
+
+
 <!---
 Here are some ideas to get you started:
 
