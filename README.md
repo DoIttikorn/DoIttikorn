@@ -1,7 +1,14 @@
-### Hi Everyone 👋 
+# Hi Everyone 👋
+I'm Computer Engineering.<br>
+Now ,internship [WISDOM-INNOVATION GROUP](https://www.wisdom-innovation.com/) CO.,LTD. 
 
-I'm Computer Engineering <br/>
-Now ,internship REALIZATION SOLUTION CO.,LTD. 
+****
+## Coding Language
+1. html
+2. Java
+3. python
+4. JavaScript
+
 
 <!---
 Here are some ideas to get you started:
