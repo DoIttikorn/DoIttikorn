@@ -1,4 +1,5 @@
-# Hi Everyone 👋
+# Hi Everyone 👋    
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Doittikorn.Doittikorn)
 
 I'm Computer Engineering. <br/>
 Now ,internship [WISDOM-INNOVATION GROUP](https://www.wisdom-innovation.com/) CO.,LTD. 
