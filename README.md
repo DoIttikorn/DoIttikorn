@@ -7,6 +7,7 @@ Now ,internship [WISDOM-INNOVATION GROUP](https://www.wisdom-innovation.com/) CO
 ***
 <h3>Coding Language and Tool</h3>
 
+![alt text](https://github.com/DoIttikorn/DoIttikorn/blob/main/pic/ciphp.png)
 1. html
 2. Java
 3. python
