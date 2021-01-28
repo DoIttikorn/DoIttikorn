@@ -23,7 +23,7 @@ database ▶️mysql, postgresql
 ----
 <p align="centers">
 <img src="https://github-readme-stats.vercel.app/api?username=Doittikorn&show_icons=true&theme=highcontrast" alt="status"  width="400" style="margin-right: 20px;"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doittikorn&layout=compact" alt="used languages" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doittikorn&layout=compact" alt="used languages" height="157" />
 </p>
 
 
