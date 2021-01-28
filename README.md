@@ -10,10 +10,10 @@ Now ,internship [WISDOM-INNOVATION GROUP](https://www.wisdom-innovation.com/) CO
 
 ***
 <h3>Coding Language and Tool</h3>
-- **web**  ▶️ vue, html, css, javascript, typescript  <br>
-- **web-framework**  ▶️angular,   codeigniter3         <br>
-- **backend** ▶️spring jpa, node.js   <br>
-- **database** ▶️mysql, postgresql
+- web  ▶️ vue, html, css, javascript, typescript  <br>
+- web-framework  ▶️angular,   codeigniter3         <br>
+- backend ▶️spring jpa, node.js   <br>
+- database ▶️mysql, postgresql
   
 
 - 🌱 I’m currently learning react.js , next.js
@@ -21,8 +21,8 @@ Now ,internship [WISDOM-INNOVATION GROUP](https://www.wisdom-innovation.com/) CO
 <h3>📈 My GitHub Stats</h3>
 
 ----
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Doittikorn&show_icons=true&theme=highcontrast" alt="mystatus"  width="500" style="margin-right: 20px;"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doittikorn&layout=compact" alt="used languages" width="500" />
+<img src="https://github-readme-stats.vercel.app/api?username=Doittikorn&show_icons=true&theme=highcontrast" alt="mystatus"  width="400" style="margin-right: 20px;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doittikorn&layout=compact" alt="used languages" width="400" />
 
 
 <!---
