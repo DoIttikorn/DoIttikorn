@@ -5,7 +5,7 @@ I'm Computer Engineering. <br/>
 Now ,internship [WISDOM-INNOVATION GROUP](https://www.wisdom-innovation.com/) CO.,LTD. 
 
 ***
-<h3>Coding Language</h3>
+<h3>Coding Language and Tool</h3>
 
 1. html
 2. Java
