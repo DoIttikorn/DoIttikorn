@@ -7,8 +7,9 @@ Now ,internship [WISDOM-INNOVATION GROUP](https://www.wisdom-innovation.com/) CO
 ***
 <h3>Coding Language and Tool</h3>
 
-<img src="https://github.com/DoIttikorn/DoIttikorn/blob/main/pic/ciphp.png" width="100">
-<img src="https://github.com/DoIttikorn/DoIttikorn/blob/main/pic/mysql.png" width="100">
+[comment]: <> (<img src="https://github.com/DoIttikorn/DoIttikorn/blob/main/pic/ciphp.png" width="100">)
+
+[comment]: <> (<img src="https://github.com/DoIttikorn/DoIttikorn/blob/main/pic/mysql.png" width="100">)
 
 
 
