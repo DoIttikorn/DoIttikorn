@@ -10,10 +10,10 @@ Now ,internship [WISDOM-INNOVATION GROUP](https://www.wisdom-innovation.com/) CO
 
 ***
 <h3>Coding Language and Tool</h3>
-web  ▶️ vue, html, css, javascript, typescript  <br>
-web-framework  ▶️angular,   codeigniter3         <br>
-backend ▶️spring jpa, node.js   <br>
-database ▶️mysql, postgresql
+web            ▶️  html, css, javascript, typescript  <br>
+web-framework  ▶️  angular, vue,  codeigniter3         <br>
+backend        ▶️  spring jpa, spring boot, node.js   <br>
+database       ▶️  mysql, postgresql
   
 
 - 🌱 I’m currently learning react.js , next.js
