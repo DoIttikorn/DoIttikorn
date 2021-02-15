@@ -1,8 +1,5 @@
 <h1 align="center"> Hi Everyone 👋 </h1>  
 
-<p align="center">
-    <img  src="https://visitor-badge.glitch.me/badge?page_id=Doittikorn.Doittikorn" alt="Visitors" />
-</p>
 
 
 My name's Ittikorn Chaokamud (DODO)   I'm 23 years old computer engineering from [suranaree university of technology thailand](http://www.sut.ac.th/2012/en/) <br/>
