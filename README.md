@@ -6,7 +6,7 @@ My name's Ittikorn Chaokamud (DODO)   I'm 23 years old computer engineering from
 Now ,internship [WISDOM-INNOVATION GROUP](https://www.wisdom-innovation.com/) CO.,LTD. 
 
 ***
-<h3>Coding Language and Tool</h3>
+<h3>Skills</h3>
 web            ▶️  html, css, javascript, typescript  <br>
 web-framework  ▶️  angular, vue,  codeigniter3         <br>
 backend        ▶️  spring jpa, spring boot, node.js   <br>
