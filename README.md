@@ -3,7 +3,7 @@
 
 
 My name's Ittikorn Chaokamud (DODO)   I'm 23 years old computer engineering from [suranaree university of technology thailand](http://www.sut.ac.th/2012/en/) <br/>
-Now ,internship [WISDOM-INNOVATION GROUP](https://www.wisdom-innovation.com/) CO.,LTD. 
+Now , work at [WISDOM-INNOVATION GROUP](https://www.wisdom-innovation.com/) CO.,LTD. 
 
 ***
 <h3>Skills</h3>
