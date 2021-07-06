@@ -8,8 +8,8 @@ Now , work at [WISDOM-INNOVATION GROUP](https://www.wisdom-innovation.com/) CO.,
 ***
 <h3>Skills</h3>
 web            ▶️  html, css, javascript, typescript  <br>
-web-framework  ▶️  angular, vue,  codeigniter3         <br>
-backend        ▶️  spring jpa, spring boot, node.js   <br>
+web-framework  ▶️  angular, vue, react, codeigniter3         <br>
+backend        ▶️  node.js   <br>
 database       ▶️  mysql, postgresql
   
 
