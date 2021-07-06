@@ -7,11 +7,15 @@ Now , work at [WISDOM-INNOVATION GROUP](https://www.wisdom-innovation.com/) CO.,
 
 ***
 <h3>Skills</h3>
-web            ▶️  html, css, javascript, typescript  <br>
-web-framework  ▶️  angular, vue, react, codeigniter3         <br>
-backend        ▶️  node.js   <br>
-database       ▶️  mysql, postgresql
-<br>
+Web-framework  ▶️  angular, vue, react, codeigniter3         
+<br/>
+Backend        ▶️  node.js   
+<br/>
+Database       ▶️  mysql, postgresql
+<br/>
+Programming Language ▶️ javascript, typescript, css, golang 
+<br/>
+<br/>
 🌱 I’m currently learning react.js , next.js
 ----
 <h3>📈 My GitHub Stats</h3>
