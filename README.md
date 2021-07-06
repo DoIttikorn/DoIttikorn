@@ -11,9 +11,8 @@ web            ▶️  html, css, javascript, typescript  <br>
 web-framework  ▶️  angular, vue, react, codeigniter3         <br>
 backend        ▶️  node.js   <br>
 database       ▶️  mysql, postgresql
-  
-
-- 🌱 I’m currently learning react.js , next.js
+<br>
+🌱 I’m currently learning react.js , next.js
 ----
 <h3>📈 My GitHub Stats</h3>
 
