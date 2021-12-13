@@ -3,7 +3,7 @@
 
 
 My name's Ittikorn Chaokamud (DODO)   I'm 23 years old computer engineering from [suranaree university of technology thailand](http://www.sut.ac.th/2012/en/) <br/>
-Now , work at [WISDOM-INNOVATION GROUP](https://www.wisdom-innovation.com/) CO.,LTD. 
+Now , work at [REFINITIV: Financial Technology, Data, and Expertise](https://www.refinitiv.com/en/)
 
 ***
 <h3>Skills</h3>
@@ -16,7 +16,7 @@ Database       ▶️  mysql, postgresql
 Programming Language ▶️ javascript, typescript, golang 
 <br/>
 <br/>
-🌱 I’m currently learning react.js , next.js
+🌱 I’m currently learning react.js, next.js, golang
 
 <h3><center>https://www.dodoth.com/</center></h3>  
 
