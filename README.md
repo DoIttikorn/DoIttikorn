@@ -9,7 +9,7 @@ Now , work at [REFINITIV: Financial Technology, Data, and Expertise](https://www
 <h3>Skills</h3>
 Web-framework  ▶️  angular, vue.js, react.js, codeigniter3         
 <br/>
-Backend        ▶️  node.js   
+Backend        ▶️  node.js, golang   
 <br/>
 Database       ▶️  mysql, postgresql
 <br/>
