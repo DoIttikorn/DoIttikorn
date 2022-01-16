@@ -3,8 +3,7 @@
 
 
 My name's Ittikorn Chawkamud (DODO)   I'm 23 years old. Graduate from [suranaree university of technology thailand](http://www.sut.ac.th/2012/en/), <br/>
-Computer Engineering <br>
-Now , work at [REFINITIV: Financial Technology, Data, and Expertise](https://www.refinitiv.com/en/)
+Computer Engineering. Now work at [REFINITIV: Financial Technology, Data, and Expertise](https://www.refinitiv.com/en/)
 
 ***
 <h3>Skills</h3>
