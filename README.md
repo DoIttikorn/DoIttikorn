@@ -6,6 +6,7 @@ My name's Ittikorn Chawkamud (DODO)   I'm 23 years old. Graduate from [suranaree
 Computer Engineering. Now work at [REFINITIV: Financial Technology, Data, and Expertise](https://www.refinitiv.com/en/)
 
 ***
+<h3 align="center">https://www.dodoth.com/</h3>  
 <h3>Skills</h3>
 Web-framework  ▶️  angular, vue.js, react.js, codeigniter3         
 <br/>
@@ -18,7 +19,7 @@ Programming Language ▶️ javascript, typescript, golang
 <br/>
 🌱 I’m currently learning react.js, next.js, golang
 
-<h3 align="center">https://www.dodoth.com/</h3>  
+
 
 ----
 
