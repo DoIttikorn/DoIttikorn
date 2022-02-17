@@ -6,7 +6,6 @@ My name's Ittikorn Chawkamud (DODO)   I'm 23 years old. Graduate from [suranaree
 Computer Engineering. Now work at [REFINITIV: Financial Technology, Data, and Expertise](https://www.refinitiv.com/en/)
 
 ***
-<h3 align="center">https://www.dodoth.com/</h3>  
 <h3>Skills</h3>
 Web-framework  ▶️  angular, vue.js, react.js, codeigniter3         
 <br/>
@@ -18,9 +17,8 @@ Programming Language ▶️ javascript, typescript, golang
 <br/>
 <br/>
 🌱 I’m currently learning react.js, next.js, golang
-
-
-
+<br/>
+<h3>https://www.dodoth.com/</h3>  
 ----
 
 <h3>📈 My GitHub Stats</h3>
@@ -30,7 +28,7 @@ Programming Language ▶️ javascript, typescript, golang
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doittikorn&layout=compact" alt="used languages" height="157" />
 </p>
 
-<h3>📖 Codewars</h3>
+<h3>📖 The Coding Challenge</h3>
 <p align="center">
   <img src="https://www.codewars.com/users/DoIttikorn/badges/large" alt="codewars" />
 </p>
