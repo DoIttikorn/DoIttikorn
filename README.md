@@ -28,7 +28,7 @@ Programming Language ▶️ javascript, typescript, golang
 <img src="https://github-readme-stats.vercel.app/api?username=Doittikorn&show_icons=true" alt="status"  width="400" style="margin-right: 20px;"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doittikorn&layout=compact" alt="used languages" height="157" />
 </p>
-<p>
+<p align="center">
   <img src="https://www.codewars.com/users/DoIttikorn/badges/large" alt="codewars" />
 </p>
 
