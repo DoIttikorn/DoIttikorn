@@ -30,7 +30,7 @@ Programming Language ▶️ javascript, typescript, golang
 </p>
 
 <h3>📖 Codewars</h3>
-<p >
+<p style="padding-left:20px;">
   <img src="https://www.codewars.com/users/DoIttikorn/badges/large" alt="codewars" />
 </p>
 
