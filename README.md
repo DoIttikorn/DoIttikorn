@@ -18,7 +18,7 @@ Programming Language ▶️ javascript, typescript, golang
 <br/>
 🌱 I’m currently learning react.js, next.js, golang
 
-<h3><center>https://www.dodoth.com/</center></h3>  
+<h3 align="center">https://www.dodoth.com/</h3>  
 
 ----
 
@@ -30,7 +30,7 @@ Programming Language ▶️ javascript, typescript, golang
 </p>
 
 <h3>📖 Codewars</h3>
-<p style="padding-left:20px;">
+<p align="center">
   <img src="https://www.codewars.com/users/DoIttikorn/badges/large" alt="codewars" />
 </p>
 
