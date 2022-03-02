@@ -18,7 +18,7 @@ Programming Language ▶️ javascript, typescript, golang
 <br/>
 🌱 I’m currently learning react.js, next.js, golang
 <br/>
-<h3>https://www.doittkorn.dev</h3>  
+<h3>https://www.doittikorn.dev</h3>  
 
 ----
 
