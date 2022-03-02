@@ -7,7 +7,7 @@ Computer Engineering. Now work at [REFINITIV: Financial Technology, Data, and Ex
 
 ***
 <h3>Skills</h3>
-Web-framework  ▶️  angular, vue.js, react.js, codeigniter3         
+Web-framework  ▶️  angular, vue.js, react.js, 
 <br/>
 Backend        ▶️  nest.js , node.js
 <br/>
