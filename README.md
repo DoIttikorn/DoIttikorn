@@ -2,7 +2,7 @@
 
 
 
-My name's Ittikorn Chawkamud (DODO)   I'm 23 years old. Graduate from [suranaree university of technology thailand](http://www.sut.ac.th/2012/en/), <br/>
+My name's Ittikorn Chawkamud (DODO)   I'm 24 years old. Graduate from [suranaree university of technology thailand](http://www.sut.ac.th/2012/en/), <br/>
 Computer Engineering. Now work at [REFINITIV: Financial Technology, Data, and Expertise](https://www.refinitiv.com/en/)
 
 ***
