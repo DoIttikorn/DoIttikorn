@@ -16,7 +16,11 @@ Database       ▶️  mysql, postgresql
 Programming Language ▶️ javascript, typescript, golang 
 <br/>
 <br/>
-🌱 I’m currently learning react.js, next.js, golang
+🌱 TODO
+- learning basic golang
+- build CRM project for backend golang
+- build microservice golang
+
 <br/>
 <h3>https://www.doittikorn.dev</h3>  
 
