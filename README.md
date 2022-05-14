@@ -16,10 +16,10 @@ Database       ▶️  mysql, postgresql
 Programming Language ▶️ javascript, typescript, golang 
 <br/>
 <br/>
-🌱 TODO
-- learning basic golang
-- build CRM project for backend golang
-- build microservice golang
+🌱 TODO <br/>
+- learning basic golang  <br/>
+- build CRM project for backend golang <br/>
+- build microservice golang <br/>
 
 <br/>
 <h3>https://www.doittikorn.dev</h3>  
