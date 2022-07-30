@@ -3,7 +3,7 @@
 
 
 My name's Ittikorn Chawkamud (DODO)   I'm 24 years old. Graduate from [suranaree university of technology thailand](http://www.sut.ac.th/2012/en/), <br/>
-Computer Engineering. Now work at 
+Computer Engineering. Now work at [SCB Tech X](https://scbtechx.io/)
 
 ***
 <h3>Skills</h3>
