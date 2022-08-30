@@ -9,11 +9,11 @@ Computer Engineering. Now work at [SCB Tech X](https://scbtechx.io/)
 <h3>Skills</h3>
 Web-framework  ▶️  angular, vue.js, react.js, 
 <br/>
-Backend        ▶️  nestJS , node.js
+Backend        ▶️  nestJS , node.js, spring boot
 <br/>
 Database       ▶️  mysql, postgresql
 <br/>
-Programming Language ▶️ javascript, typescript, golang 
+Programming Language ▶️ javascript, typescript, golang, kotlin, java 
 <br/>
 <br/>
 🌱 TODO <br/>
