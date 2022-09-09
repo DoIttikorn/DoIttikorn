@@ -14,17 +14,14 @@ Frontend Framework
 - React.js
 
 Backend Framework
-
 - NestJS
 - Spring boot
 
 Database
-
 - Mysql
 - Postgresql
 
 Programming Language
-
 - javascript
 - typescript
 - kotlin
