@@ -1,17 +1,18 @@
-<h1 align="center"> Hi Everyone 👋 </h1>  
+<h1 align="center"> Hi there 🖐 </h1>
 
 
-
-My name's Ittikorn Chawkamud (DODO)   I'm 24 years old. Graduate from [suranaree university of technology thailand](http://www.sut.ac.th/2012/en/), <br/>
-Computer Engineering. Now work at [SCB Tech X](https://scbtechx.io/)
+My name is Ittikorn Chawkamud (DODO)   I'm 24 years old. Graduate from [suranaree university of technology thailand](http://www.sut.ac.th/2012/en/), \
+Computer Engineering. Now I working Software Engineer at [SCB Tech X](https://scbtechx.io/). \
+#### [My website](http://www.doittikorn.dev)
 
 ***
+
 <h3>Skills</h3>
-Web-framework  ▶️  angular, vue.js, react.js, 
+Frontend Framework  ▶️  Angular, React.js, 
 <br/>
-Backend        ▶️  nestJS , node.js, spring boot
+Backend Framework  ▶️  NestJS , Spring boot
 <br/>
-Database       ▶️  mysql, postgresql
+Database       ▶️  Mysql, Postgresql
 <br/>
 Programming Language ▶️ javascript, typescript, golang, kotlin, java 
 <br/>
@@ -21,8 +22,7 @@ Programming Language ▶️ javascript, typescript, golang, kotlin, java
 - build CRM project for backend golang <br/>
 - build microservice golang <br/>
 
-<br/>
-<h3>https://www.doittikorn.dev</h3>  
+
 
 ----
 
