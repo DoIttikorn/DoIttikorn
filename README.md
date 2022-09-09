@@ -7,31 +7,31 @@ Computer Engineering. Now I working Software Engineer at [SCB Tech X](https://sc
 
 ***
 
-<h3>Skills</h3>
-Frontend Framework 
+### Skills
+
+#### Frontend Framework
 
 - Angular
 - React.js
 
-Backend Framework
+#### Backend Framework
+
 - NestJS
 - Spring boot
 
-Database
+#### Database
 - Mysql
 - Postgresql
 
-Programming Language
+#### Programming Language
 - javascript
 - typescript
 - kotlin
 - java
 - golang
 
+### 🌱 TODO 
 
-<br/>
-<br/>
-🌱 TODO <br/>
 - learning basic golang  <br/>
 - build CRM project for backend golang <br/>
 - build microservice golang <br/>
