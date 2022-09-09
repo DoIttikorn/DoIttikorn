@@ -8,13 +8,30 @@ Computer Engineering. Now I working Software Engineer at [SCB Tech X](https://sc
 ***
 
 <h3>Skills</h3>
-Frontend Framework  ▶️  Angular, React.js, 
-<br/>
-Backend Framework  ▶️  NestJS , Spring boot
-<br/>
-Database       ▶️  Mysql, Postgresql
-<br/>
-Programming Language ▶️ javascript, typescript, golang, kotlin, java 
+Frontend Framework 
+
+- Angular
+- React.js
+
+Backend Framework
+
+- NestJS
+- Spring boot
+
+Database
+
+- Mysql
+- Postgresql
+
+Programming Language
+
+- javascript
+- typescript
+- kotlin
+- java
+- golang
+
+
 <br/>
 <br/>
 🌱 TODO <br/>
