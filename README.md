@@ -16,8 +16,9 @@ Computer Engineering. Now I working Software Engineer at [SCB Tech X](https://sc
 
 #### Backend Framework
 
-- NestJS
-- Spring boot
+- NestJS (node.js)
+- Echo framework (Go)
+- Spring boot (java,kotlin)
 
 #### Database
 - Mysql
