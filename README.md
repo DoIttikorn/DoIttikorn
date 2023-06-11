@@ -18,7 +18,7 @@ Computer Engineering. Now I working Software Engineer at [SCB Tech X](https://sc
 
 - NestJS (node.js)
 - Echo framework (Go)
-- Spring boot (java,kotlin)
+- Spring boot (java, kotlin)
 
 #### Database
 - Mysql
@@ -31,11 +31,11 @@ Computer Engineering. Now I working Software Engineer at [SCB Tech X](https://sc
 - java
 - golang
 
-### 🌱 TODO 
+<!-- ### 🌱 TODO 
 
 - learning basic golang  <br/>
 - build CRM project for backend golang <br/>
-- build microservice golang <br/>
+- build microservice golang <br/> -->
 
 
 
