@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 🖐 </h1>
 
 
-My name is Ittikorn Chawkamud (DODO)   I'm 24 years old. Graduate from [suranaree university of technology thailand](http://www.sut.ac.th/2012/en/), \
+My name is Ittikorn Chawkamud (DODO)   I'm 27 years old. Graduate from [suranaree university of technology thailand](http://www.sut.ac.th/2012/en/), \
 Computer Engineering. Now I working Software Engineer at [SCB Tech X](https://scbtechx.io/).
 #### [My website](http://www.doittikorn.dev)
 
