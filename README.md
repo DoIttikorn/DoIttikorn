@@ -11,9 +11,6 @@ Computer Engineering.
   <a href="https://web--threemen-team.asia-southeast1.hosted.app">
     <img src="https://img.shields.io/badge/OPEN_FOR_WORK-Threemen_Team-3fb950?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0d1117" alt="Hire me - Threemen Team" />
   </a>
-  <a href="https://leetcode.com/u/doIttikorn/">
-    <img src="https://img.shields.io/badge/LEETCODE-doIttikorn-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" alt="LeetCode profile" />
-  </a>
 </p>
 
 ---
