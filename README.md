@@ -13,8 +13,6 @@ Computer Engineering.
   </a>
 </p>
 
----
-
 <h2 align="center">⚡ Tech Stack</h2>
 
 <table align="center">
@@ -37,6 +35,18 @@ Computer Engineering.
     </td>
   </tr>
   <tr>
+    <td align="center"><b>📨 Cache &amp; Messaging</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=redis,kafka&theme=dark" alt="Redis, Kafka" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>📊 Logging</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=grafana&theme=dark" alt="Grafana" />
+    </td>
+  </tr>
+  <tr>
     <td align="center"><b>💻 Languages</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=js,ts,kotlin,java,go&theme=dark" alt="JavaScript, TypeScript, Kotlin, Java, Go" />
@@ -47,8 +57,6 @@ Computer Engineering.
 <p align="center">
   <sub>NestJS (Node.js) · Echo framework (Go) · Spring Boot (Java, Kotlin)</sub>
 </p>
-
----
 
 <h2 align="center">🚀 Open Source Projects</h2>
 
@@ -91,18 +99,14 @@ Computer Engineering.
 - build CRM project for backend golang <br/>
 - build microservice golang <br/> -->
 
-
-
-----
-
-<h3>📈 My GitHub Stats</h3>
+<h2 align="center">📈 My GitHub Stats</h2>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Doittikorn&show_icons=true" alt="status"  width="400" style="margin-right: 20px;"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doittikorn&layout=compact" alt="used languages" height="157" />
 </p>
 
-<h3>📖 The Coding Challenge</h3>
+<h2 align="center">📖 The Coding Challenge</h2>
 <p align="center">
   <img src="https://www.codewars.com/users/DoIttikorn/badges/large" alt="codewars" />
 </p>
